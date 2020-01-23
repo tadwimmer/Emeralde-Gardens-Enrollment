@@ -5,5 +5,5 @@ to parent their children. It is the Foundations mission to eliminate the economi
 adoption; and to ensure that children born to single parents have the greatest opportunity to have a strong and meaningful relationship 
 with both of their natural parents. 
 
-#Contributing
+# Contributing
 
